@@ -1,0 +1,70 @@
+.mainheader {padding:50px 0 50px 0; background-color:#f44336; color:#f3f6f4; text-align:center; font-family: 'Noto Sans Display', sans-serif;}
+
+h1 {font-family: 'Merriweather', serif;}
+
+h3{font-family: 'Lato', sans-serif;}
+
+h4{font-family: 'Lato', sans-serif;}
+
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px,
+  height: 200px
+}
+
+.box1 {background-color:#fdefe0;}
+
+.box2 {background-color:#fdefe0;}
+
+.box3 {background-color:#fdefe0;}
+
+.box4 {background-color:#fdefe0;}
+
+.box5 {background-color:#fdefe0;}
+
+.box6 {background-color:#fdefe0;}
+
+.box7 {background-color:#fdefe0;}
+
+.box8 {background-color:#fdefe0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .button, .button.disabled, .button[disabled], .button.disabled:hover, .button[disabled]:hover, .button.disabled:focus, .button[disabled]:focus {
+    background-color: #ff0000;
+    color: #fefefe; }
+  .button:hover, .button:focus {
+    background-color: #000000;
+    color: #fefefe; }
+
+
+  .secondaryButton .secondaryButton, .secondaryButton.disabled, .secondaryButton[disabled], .secondaryButton.disabled:hover, .secondaryButton[disabled]:hover, .secondaryButton.disabled:focus, .secondaryButton[disabled]:focus {
+    background-color: yellow;
+    color: #fefefe; }
+  .secondaryButton .secondaryButton:hover, .secondaryButton:focus {
+    background-color: #000000;
+    color: #fefefe; }
